@@ -1,0 +1,1 @@
+web:    java -jar target/MyTrainTicketAssistant-with-dependencies.jar $PORT
